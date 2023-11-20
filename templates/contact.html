@@ -1,0 +1,76 @@
+{% extends "base.html" %} {% block content %}
+<html lang="en">
+  <head>
+  	<title>Contact</title>
+    <meta charset="utf-8">
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}"/>
+	<!-- <link href="static/css/team2/bootstrap.css" rel="stylesheet">
+	<link href="static/css/team2/main.css" rel="stylesheet">    
+	<link href="static/css/team2/header.css" rel="stylesheet">   
+	<link rel="stylesheet" href="static/css/team2/all.css"> -->
+
+	<link href="static/css/team2/team.htm" rel="stylesheet">
+	
+	</head>
+	<body >
+		
+	<section >
+		<div>
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section">Contact Us On</h2>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-10 col-md-12">
+					<div class="wrapper">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 mb-5">
+								<div class="row">
+									<div class="col-md-4">
+										<div class="dbox w-100 text-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-map-marker"></span>
+					        		</div>
+					        		<div class="text">
+						            <p><span>Address:</span>Department Of Computer science and Engineering AITR,Indore</p>
+						          </div>
+					          </div>
+									</div>
+									<div class="col-md-4">
+										<div class="dbox w-100 text-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-phone"></span>
+					        		</div>
+					        		<div class="text">
+						            <p><span>Phone:</span> <a href="tel://6265203505">+91 6265203505</a></p>
+						          </div>
+					          </div>
+									</div>
+									<div class="col-md-4">
+										<div class="dbox w-100 text-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-paper-plane"></span>
+					        		</div>
+					        		<div class="text">
+						            <p><span>Email:</span> <a href="mailto:harshitchoudhary20284@acropolis.in">harshitchoudhary20284@acropolis.in</a></p>
+						          </div>
+					          </div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	</body>
+</html>
+{% endblock %}
+

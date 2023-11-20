@@ -1,0 +1,178 @@
+.u-section-1 .u-shape-1 {
+    height: 195px;
+    background-image: none;
+    margin-top: 167px;
+    margin-bottom: 0;
+}
+.u-palette-3-base, .u-body.u-palette-3-base, .u-container-style.u-palette-3-base::before, .u-table-alt-palette-3-base tr:nth-child(2n) {
+    color: #111111;
+    background-color: #f1c50e;
+}
+.u-expanded-width {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+section > *, header > *, footer > *, .u-sheet > * {
+    position: relative;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+.u-align-center {
+    text-align: center;
+}
+.u-body {
+    color: #111111;
+}
+.u-body {
+    font-family: 'Open Sans',sans-serif;
+}
+.u-body {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+element {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+
+.u-section-1 .u-text-3 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 20px 0 0;
+}
+.u-custom-font.u-text-font {
+    font-family: 'Open Sans',sans-serif !important;
+}
+.u-group .u-container-layout > * {
+    position: relative;
+}
+.u-body h1, .u-body h2, .u-body h3, .u-body h4, .u-body h5, .u-body h6 {
+    padding: 0;
+}
+.u-text-custom-color-1, a.u-button-style.u-text-custom-color-1, a.u-button-style.u-text-custom-color-1[class*="u-border-"] {
+    color: #e62830 !important;
+}
+.u-text {
+    word-wrap: break-word;
+    position: relative;
+}
+.u-inner-container-layout, .u-container-layout > * {
+    position: relative;
+}
+h5 {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,sans-serif;
+}
+h5 {
+    font-size: 1.125rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+    font-weight: 500;
+    color: inherit;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+.u-tabs:not([class*="u-align-"]), .u-accordion:not([class*="u-align-"]), .u-repeater-item:not([class*="u-align-"]), .u-container-style:not([class*="u-align-"]) {
+    text-align: left;
+}
+.u-align-center {
+    text-align: center;
+}
+.u-body {
+    color: #111111;
+}
+.u-body {
+    font-family: 'Open Sans',sans-serif;
+}
+.u-body {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+element {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+
+.u-section-1 .u-image-1 {
+    width: 388px;
+    height: 388px;
+    background-image: url("images/SBChoudhari.jpg");
+    background-position: 50% 50%;
+    margin: -328px auto 0 calc(((100% - 1140px) / 2) + 37px);
+}
+.u-image-circle.u-image {
+    border-radius: 50% !important;
+}
+.u-overlap.u-overlap-transparent .u-header, .u-image, .u-gradient {
+    color: #111111;
+}
+.u-image, .u-background-effect-image, .u-video-poster {
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+section > *, header > *, footer > *, .u-sheet > * {
+    position: relative;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+.u-align-center {
+    text-align: center;
+}
+.u-body {
+    color: #111111;
+}
+.u-body {
+    font-family: 'Open Sans',sans-serif;
+}
+.u-body {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+element {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
